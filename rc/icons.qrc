@@ -1,0 +1,20 @@
+<!-- rc/icons.qrc -->
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="">
+    <file>icons/app_icon.png</file>
+    <file>icons/new_folder.png</file>
+    <file>icons/new_doc.png</file>
+    <file>icons/exit.png</file>
+    <file>icons/delete.png</file>
+    <file>icons/rename.png</file>
+    <file>icons/copy.png</file>
+    <file>icons/paste.png</file>
+    <file>icons/properties.png</file>
+    <file>icons/back.png</file>
+    <file>icons/next.png</file>
+    <file>icons/up.png</file>
+    <file>icons/help.png</file>
+    <file>icons/about.png</file>
+    <file>icons/settings.svg</file>
+</qresource>
+</RCC>
